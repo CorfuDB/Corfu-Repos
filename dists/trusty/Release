@@ -1,0 +1,28 @@
+Origin: Corfu
+Label: Corfu, A cluster consistency platform.
+Codename: trusty
+Date: Wed, 09 Nov 2016 02:14:24 UTC
+Architectures: i386 amd64
+Components: main
+Description: Apt repository for Corfu.
+MD5Sum:
+ 845bdb5abb45348e0cc5ac37074787cf 556 main/binary-i386/Packages
+ 19d6c7de746a7fb1fc2fa9161beba27b 416 main/binary-i386/Packages.gz
+ d120a31f713630f115858838a6384990 134 main/binary-i386/Release
+ 845bdb5abb45348e0cc5ac37074787cf 556 main/binary-amd64/Packages
+ 19d6c7de746a7fb1fc2fa9161beba27b 416 main/binary-amd64/Packages.gz
+ c1c1acb91631c9fa960a26c10b82430a 135 main/binary-amd64/Release
+SHA1:
+ 04a5edfcbb1f0d30b5704d90d6bea1d3ee172bd5 556 main/binary-i386/Packages
+ eb3453cbbd6548fc78d836f298812429b29b76f2 416 main/binary-i386/Packages.gz
+ 0a46dbf293be5b9a4e4667ac1c988702ffb130f0 134 main/binary-i386/Release
+ 04a5edfcbb1f0d30b5704d90d6bea1d3ee172bd5 556 main/binary-amd64/Packages
+ eb3453cbbd6548fc78d836f298812429b29b76f2 416 main/binary-amd64/Packages.gz
+ 6ab4718ea4468625c3f2550a6fea0c92611ce9c6 135 main/binary-amd64/Release
+SHA256:
+ e936f55ba18d958484c48d1d4b1f70579b9af1e72b174aa74772ba35b4edbaac 556 main/binary-i386/Packages
+ 940794c6a5181fa539ffec3a223ea0cda6c5ba3b854da2a25ae11696abe7fc3e 416 main/binary-i386/Packages.gz
+ 146ade549dc6c274180c5edd2ce6c7c279fa84cc23a80321eafd0474597105ad 134 main/binary-i386/Release
+ e936f55ba18d958484c48d1d4b1f70579b9af1e72b174aa74772ba35b4edbaac 556 main/binary-amd64/Packages
+ 940794c6a5181fa539ffec3a223ea0cda6c5ba3b854da2a25ae11696abe7fc3e 416 main/binary-amd64/Packages.gz
+ e7df948a90362e59feac971c6a7b8f76fe3dfb57e00d9638d69ed7a1ef349493 135 main/binary-amd64/Release
