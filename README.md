@@ -7,27 +7,29 @@ Please do not commit to this branch directly. It is controlled by the Travis-CI 
 To use this repository in a maven project, add:
 
 ```xml
-<repositories>
-    <repository>
-        <id>corfu-github-mvn-repo</id>
-        <url>https://raw.github.com/corfudb/corfudb/mvn-repo/</url>
-        <snapshots>
-            <enabled>true</enabled>
-            <updatePolicy>always</updatePolicy>
-        </snapshots>
-    </repository>
-</repositories>
+    <repositories>
+            <repository>
+                <id>mvn-repo</id>
+                <url>https://github.com/CorfuDB/Corfu-Repos/mvn-repo</url>
+                <snapshots>
+                    <enabled>true</enabled>
+                    <updatePolicy>always</updatePolicy>
+                </snapshots>
+            </repository>
+    </repositories>
+
 ```
 
 Most likely, you will want to add a reference to the Corfu artifact as well:
 
 ```xml
-<dependencies>
+   <dependencies>
         <dependency>
             <groupId>org.corfudb</groupId>
-            <artifactId>corfu</artifactId>
+            <artifactId>runtime</artifactId>
             <version>0.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
-</dependencies>
+    </dependencies>
+
 ```
