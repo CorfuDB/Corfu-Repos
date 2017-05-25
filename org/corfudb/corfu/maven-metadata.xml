@@ -3,10 +3,10 @@
   <groupId>org.corfudb</groupId>
   <artifactId>corfu</artifactId>
   <versioning>
-    <release>0.1-3039</release>
+    <release>0.1-3050</release>
     <versions>
-      <version>0.1-3039</version>
+      <version>0.1-3050</version>
     </versions>
-    <lastUpdated>20170525050417</lastUpdated>
+    <lastUpdated>20170525063615</lastUpdated>
   </versioning>
 </metadata>
