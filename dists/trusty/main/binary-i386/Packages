@@ -1,16 +1,16 @@
 Package: corfu-server
-Version: 0.1+3494
+Version: 0.1+3509
 Architecture: all
 Depends: java-runtime-headless
-Installed-Size: 28748
+Installed-Size: 28749
 Maintainer: Michael Wei <mwei@cs.ucsd.edu>
 Priority: optional
 Section: misc
-Filename: pool/main/c/corfu-server/corfu-server_0.1+3494_all.deb
-Size: 26256084
-SHA256: 104adad73efe89f8e0464147915fee31f41f82f93900766eb5ec9f2e835d1e7e
-SHA1: 2264312f6f319a3a5a8d29b0aaa86100a8deb5b7
-MD5sum: 871723df07a4ffd42fa7747079f76f8b
+Filename: pool/main/c/corfu-server/corfu-server_0.1+3509_all.deb
+Size: 26257244
+SHA256: 98098ae7e99fa22b2bba770257cf7cd2b4affa312b86da1825dfd7f2fc0cedb1
+SHA1: 815b5faf63a678ec8beca4605d9680130f6c2a8e
+MD5sum: adbaa2c8263bd59319de3630cfa876d4
 Description: Corfu is a consistency platform designed around the abstraction of a shared log.
 Homepage: http://www.corfudb.org/debian
 
