@@ -1,28 +1,28 @@
 Origin: Corfu
 Label: Corfu, A cluster consistency platform.
 Codename: trusty
-Date: Wed, 05 Jul 2017 06:21:32 UTC
+Date: Wed, 05 Jul 2017 20:44:10 UTC
 Architectures: i386 amd64
 Components: main
 Description: Apt repository for Corfu.
 MD5Sum:
- 0b9efac23bb0288b0abe3c9c9b787020 563 main/binary-i386/Packages
- 7f62093602ddd936ed2f13cf24eb6a39 419 main/binary-i386/Packages.gz
+ 62d96b7dc406f353468d0687042db53a 563 main/binary-i386/Packages
+ 1a79e3a6417dbd91521324b417a9827f 415 main/binary-i386/Packages.gz
  d120a31f713630f115858838a6384990 134 main/binary-i386/Release
- 0b9efac23bb0288b0abe3c9c9b787020 563 main/binary-amd64/Packages
- 7f62093602ddd936ed2f13cf24eb6a39 419 main/binary-amd64/Packages.gz
+ 62d96b7dc406f353468d0687042db53a 563 main/binary-amd64/Packages
+ 1a79e3a6417dbd91521324b417a9827f 415 main/binary-amd64/Packages.gz
  c1c1acb91631c9fa960a26c10b82430a 135 main/binary-amd64/Release
 SHA1:
- 38bfe953328e58e422d63b2d6f4bfcade988c979 563 main/binary-i386/Packages
- da8f6e16bc0568c48ba34c5375fee8fb68d908fa 419 main/binary-i386/Packages.gz
+ b3d3d1bf622d176d3a6cba20ce48ad13edbb22c4 563 main/binary-i386/Packages
+ 69ff63c2f9545e08cb8bcc94f922dae2b122921b 415 main/binary-i386/Packages.gz
  0a46dbf293be5b9a4e4667ac1c988702ffb130f0 134 main/binary-i386/Release
- 38bfe953328e58e422d63b2d6f4bfcade988c979 563 main/binary-amd64/Packages
- da8f6e16bc0568c48ba34c5375fee8fb68d908fa 419 main/binary-amd64/Packages.gz
+ b3d3d1bf622d176d3a6cba20ce48ad13edbb22c4 563 main/binary-amd64/Packages
+ 69ff63c2f9545e08cb8bcc94f922dae2b122921b 415 main/binary-amd64/Packages.gz
  6ab4718ea4468625c3f2550a6fea0c92611ce9c6 135 main/binary-amd64/Release
 SHA256:
- de52a46850b4612cba09a728b8d99b055b21958eaa0e96328dabd20f7be5834c 563 main/binary-i386/Packages
- 655bde92f7bc87afa93ea88a2cd9741fb816abda9a059fe1c2dac447a796736e 419 main/binary-i386/Packages.gz
+ 46f107bd0bd74adc1db998e86d7a2e74b7c42358b5f7b1dc266e3c4b3a3b4391 563 main/binary-i386/Packages
+ ec3ca27c6790cc06a9ad00238171e6282be77d0063254e723bf46fdafd3ca2d7 415 main/binary-i386/Packages.gz
  146ade549dc6c274180c5edd2ce6c7c279fa84cc23a80321eafd0474597105ad 134 main/binary-i386/Release
- de52a46850b4612cba09a728b8d99b055b21958eaa0e96328dabd20f7be5834c 563 main/binary-amd64/Packages
- 655bde92f7bc87afa93ea88a2cd9741fb816abda9a059fe1c2dac447a796736e 419 main/binary-amd64/Packages.gz
+ 46f107bd0bd74adc1db998e86d7a2e74b7c42358b5f7b1dc266e3c4b3a3b4391 563 main/binary-amd64/Packages
+ ec3ca27c6790cc06a9ad00238171e6282be77d0063254e723bf46fdafd3ca2d7 415 main/binary-amd64/Packages.gz
  e7df948a90362e59feac971c6a7b8f76fe3dfb57e00d9638d69ed7a1ef349493 135 main/binary-amd64/Release
