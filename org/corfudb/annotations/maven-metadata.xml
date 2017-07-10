@@ -3,10 +3,10 @@
   <groupId>org.corfudb</groupId>
   <artifactId>annotations</artifactId>
   <versioning>
-    <release>0.1-3699</release>
+    <release>0.1-3715</release>
     <versions>
-      <version>0.1-3699</version>
+      <version>0.1-3715</version>
     </versions>
-    <lastUpdated>20170707011006</lastUpdated>
+    <lastUpdated>20170710192438</lastUpdated>
   </versioning>
 </metadata>
