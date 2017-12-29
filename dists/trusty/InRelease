@@ -4,45 +4,45 @@ Hash: SHA1
 Origin: Corfu
 Label: Corfu, A cluster consistency platform.
 Codename: trusty
-Date: Thu, 28 Dec 2017 21:13:59 UTC
+Date: Fri, 29 Dec 2017 00:27:51 UTC
 Architectures: i386 amd64
 Components: main
 Description: Apt repository for Corfu.
 MD5Sum:
- 4859ddb9103a01cb8e0e152e4821646e 563 main/binary-i386/Packages
- b24d090391eed2340117a24a738ea733 420 main/binary-i386/Packages.gz
+ 2640e7efdde14cf187941b42eed2e7f4 563 main/binary-i386/Packages
+ a93165e31968c19372538f952ff3e1db 420 main/binary-i386/Packages.gz
  d120a31f713630f115858838a6384990 134 main/binary-i386/Release
- 4859ddb9103a01cb8e0e152e4821646e 563 main/binary-amd64/Packages
- b24d090391eed2340117a24a738ea733 420 main/binary-amd64/Packages.gz
+ 2640e7efdde14cf187941b42eed2e7f4 563 main/binary-amd64/Packages
+ a93165e31968c19372538f952ff3e1db 420 main/binary-amd64/Packages.gz
  c1c1acb91631c9fa960a26c10b82430a 135 main/binary-amd64/Release
 SHA1:
- 1f5691fc9f549b825494f590b349afffb4b72991 563 main/binary-i386/Packages
- fac45ec859539e0819cffc97c0e1df02386b19c4 420 main/binary-i386/Packages.gz
+ 14307e44e869021bfd2dc8fe091b456ed72e7ead 563 main/binary-i386/Packages
+ f0a085809485d0927bb88b41801cb45d7dffe5c2 420 main/binary-i386/Packages.gz
  0a46dbf293be5b9a4e4667ac1c988702ffb130f0 134 main/binary-i386/Release
- 1f5691fc9f549b825494f590b349afffb4b72991 563 main/binary-amd64/Packages
- fac45ec859539e0819cffc97c0e1df02386b19c4 420 main/binary-amd64/Packages.gz
+ 14307e44e869021bfd2dc8fe091b456ed72e7ead 563 main/binary-amd64/Packages
+ f0a085809485d0927bb88b41801cb45d7dffe5c2 420 main/binary-amd64/Packages.gz
  6ab4718ea4468625c3f2550a6fea0c92611ce9c6 135 main/binary-amd64/Release
 SHA256:
- 50b21472deb60c330a64b0151497eb6f1a79654888ef0afda43166908e260a4a 563 main/binary-i386/Packages
- 20ffe70c23a9de6eaa25716a0ff3c95a3b9e4f79c986afb2f0d4aa632206e30d 420 main/binary-i386/Packages.gz
+ a7476ec214c25b246fe53289c2029065f4196972738759d4468338ed5073ab4d 563 main/binary-i386/Packages
+ e3050de876574e3cb5a1534816a273f4defed844fbe91772bf9fcce517bddc91 420 main/binary-i386/Packages.gz
  146ade549dc6c274180c5edd2ce6c7c279fa84cc23a80321eafd0474597105ad 134 main/binary-i386/Release
- 50b21472deb60c330a64b0151497eb6f1a79654888ef0afda43166908e260a4a 563 main/binary-amd64/Packages
- 20ffe70c23a9de6eaa25716a0ff3c95a3b9e4f79c986afb2f0d4aa632206e30d 420 main/binary-amd64/Packages.gz
+ a7476ec214c25b246fe53289c2029065f4196972738759d4468338ed5073ab4d 563 main/binary-amd64/Packages
+ e3050de876574e3cb5a1534816a273f4defed844fbe91772bf9fcce517bddc91 420 main/binary-amd64/Packages.gz
  e7df948a90362e59feac971c6a7b8f76fe3dfb57e00d9638d69ed7a1ef349493 135 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.22 (GNU/Linux)
 
-iQIcBAEBAgAGBQJaRV6XAAoJEKhRnBP6u8fUPoAP/0CvMJWngW5BAYfHLSVRySME
-pL1aaK6yI+NBrulzqda3140SHnV1Uc3NwOVKRRDuk5lB8PeN/qJHNACE3iLOsiAU
-WI7FASsTe66vJv28GvFeXayax2hlNItBTMjRFkOhL9+mt348/9nlX8q8wFkVauvK
-QVfpiNBjkdS5JQLIY8CeIxkdYuMJjLG/Bqb+T2gnrvpVlWqYUwL1EezxZGERAXzX
-zieh9M1FnhL3Nleb7ys6qayYcPeBEWwUI4Vyjrq6SClRoZingDA9cn9/cP9nMK9D
-g7oceCriEzHkTAxNWaWFKZ6sIMvsGKdqKGXdVxevm0x6Y+smofpXDX+i21wRQrzZ
-voyslFIG3389rInuDl/kExWe4kwmwZR98qUNPwmQhSmptZnoaFxMaYtpfvLLXWqz
-Vjbbjbe2pnQgc0hZJ2ZJXLw7u6rg2/6AVk5w0WMQ0HOJnxMuP9gWiW3AwW6yETmX
-4UTDEewhIn8SAtY8jnTStEbE+nbmUK+Fq4MYXPRTNfw8NQrpqrSJXWmeDBbICiP7
-kRtHwMZMj41BaT3ZESZe0CJT/H5P65pgA0gtlC05bHcOOI7IIPtg77uVLkIPJXZt
-6eAtUBky/cYzmRTCH7nhZxwOg3xcZTOwAI4gY+vLcjLwnBExjgp45WBvTv2roXzE
-AGKtxEWHFZQj2sGS3um+
-=5SbZ
+iQIcBAEBAgAGBQJaRYwHAAoJEKhRnBP6u8fUW60QANb0a0iyy8CVREVyn0/sRZxi
+GSAj+aTWEsucSoLNaFgLAJ5m4lR0EiRb5YG3io6vLPR4AhnBhnglmQf0d8ytoR95
+n2t0yFLk8RqV/fxVBAwmgKVVs/r2oQF0n7ouiZ0zSm0TblABw/DUM77T+TzqXhwn
+FmkXeo8g5GBos+eYcgKErXaUKwIoMgoMJgrLyOvmPTjDEOUZU9Wrd+uy8SPFrMg7
+YETjV5zqYRCTxGmdy82B66ErG6PtweTZYNcGnJfE0yAdmU8hn1ySVgu0adyG9+Wy
+BfZ27uduw9dIkKTT7IyeuP+g4kvjy2/UnskbKuX0cW7DgypUD9Bvg2Y5IuEEZsn7
+n20D8YHM/MdmihznJpoI4GteaZwK00Y9nU6yNvzECgK1lPdruKjijtty2b7VIuQH
+RuVmysYmlumEIngKwvhcYc93cxmtJVYMPM/qhM5hZqWWVZGftx23LDBBwpt2Y2J0
+3+MkomEcmsfbbb8DlVl0xZadDc7hbNkBglSLfki9DcJMBEc/3lQlQBI/DNXVAwf+
+HfEs3ANQf4CuP6O5FZXCpVsGg6T1jpsTT/Cnu7Mh4FRjTJATSXFmzPq++7Iyj1aH
+Cijw0nc60Qt90ErhLWr5T+zvWQcthu+XWVTS619X+5Xt7dAgo/kbw92PbS+tqtjI
+35t2JW5qcfN+hIUkloxv
+=l2ad
 -----END PGP SIGNATURE-----
