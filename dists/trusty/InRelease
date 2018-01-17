@@ -4,45 +4,45 @@ Hash: SHA1
 Origin: Corfu
 Label: Corfu, A cluster consistency platform.
 Codename: trusty
-Date: Wed, 17 Jan 2018 10:44:14 UTC
+Date: Wed, 17 Jan 2018 20:45:05 UTC
 Architectures: i386 amd64
 Components: main
 Description: Apt repository for Corfu.
 MD5Sum:
- 37c51e53589eabccf6eaaa265a8856f8 563 main/binary-i386/Packages
- f11e2789e0a08cf6cc4490882fa36286 418 main/binary-i386/Packages.gz
+ 05ac7fa967bdbd85d56bd9d0693376e5 563 main/binary-i386/Packages
+ 84f59c3570c3797363b0cd59667937c5 417 main/binary-i386/Packages.gz
  d120a31f713630f115858838a6384990 134 main/binary-i386/Release
- 37c51e53589eabccf6eaaa265a8856f8 563 main/binary-amd64/Packages
- f11e2789e0a08cf6cc4490882fa36286 418 main/binary-amd64/Packages.gz
+ 05ac7fa967bdbd85d56bd9d0693376e5 563 main/binary-amd64/Packages
+ 84f59c3570c3797363b0cd59667937c5 417 main/binary-amd64/Packages.gz
  c1c1acb91631c9fa960a26c10b82430a 135 main/binary-amd64/Release
 SHA1:
- ffe5d34106a2e0256c2052df0f7f7b268c3b5044 563 main/binary-i386/Packages
- acb0639053c3b2c285082e9bdf22fc117cef3951 418 main/binary-i386/Packages.gz
+ 7a4c9f20e13e464dd629145e6111b457dfa847f5 563 main/binary-i386/Packages
+ a28f88e081712842801fd0e91877ffde9b24c2cc 417 main/binary-i386/Packages.gz
  0a46dbf293be5b9a4e4667ac1c988702ffb130f0 134 main/binary-i386/Release
- ffe5d34106a2e0256c2052df0f7f7b268c3b5044 563 main/binary-amd64/Packages
- acb0639053c3b2c285082e9bdf22fc117cef3951 418 main/binary-amd64/Packages.gz
+ 7a4c9f20e13e464dd629145e6111b457dfa847f5 563 main/binary-amd64/Packages
+ a28f88e081712842801fd0e91877ffde9b24c2cc 417 main/binary-amd64/Packages.gz
  6ab4718ea4468625c3f2550a6fea0c92611ce9c6 135 main/binary-amd64/Release
 SHA256:
- 8de1e0c92d850b1cc402a08d1dc2c15a361179287f43e3426cca56a31f10cd1e 563 main/binary-i386/Packages
- ea23ab47420876003fdc0dc81ba682da3c76c787af22aa3a5028e2e2d0617efc 418 main/binary-i386/Packages.gz
+ 5f5c0acaf6d01f68eb965c1ae006a916801081fdd309c1bdf2d13f57afe90fa5 563 main/binary-i386/Packages
+ 620c691383088aab67fc71ab3cb608ec1dc004aaafcf85ac317d0bbfab1cd094 417 main/binary-i386/Packages.gz
  146ade549dc6c274180c5edd2ce6c7c279fa84cc23a80321eafd0474597105ad 134 main/binary-i386/Release
- 8de1e0c92d850b1cc402a08d1dc2c15a361179287f43e3426cca56a31f10cd1e 563 main/binary-amd64/Packages
- ea23ab47420876003fdc0dc81ba682da3c76c787af22aa3a5028e2e2d0617efc 418 main/binary-amd64/Packages.gz
+ 5f5c0acaf6d01f68eb965c1ae006a916801081fdd309c1bdf2d13f57afe90fa5 563 main/binary-amd64/Packages
+ 620c691383088aab67fc71ab3cb608ec1dc004aaafcf85ac317d0bbfab1cd094 417 main/binary-amd64/Packages.gz
  e7df948a90362e59feac971c6a7b8f76fe3dfb57e00d9638d69ed7a1ef349493 135 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.22 (GNU/Linux)
 
-iQIcBAEBAgAGBQJaXyj+AAoJEKhRnBP6u8fU7YkP/2ofnp/x7rfqDMdZV0PCBfbu
-G9eR7FCpfadCbl4y6pJx6c0LegYh+wH81lli7hwppgt60FGyebYzGRbgMnHTf/3x
-qLmYR0ImkEXCIJtARsR1X3YwhomSMapI6LptsQC5Zq3qqaUBQfWbcoRTJroKgLfh
-yzkzBbYqZxp41uN3z3YfZIs8ZTedhhL261BdViqd/7+bxUNN7g1TZfnPr52blYuO
-5+DFQ4yDHAuokWHvS1aZNlOewWA1yKepofRL6iaoIgg+uQ6tXLbUpwOexKDb13jT
-LsJ9gX7lOH7p9Txsyf1/ZIGIhpZIg8lZqhD+zVsN3jiFtn5y4A4k65dFTmJl3b2T
-xIxCMcFMcYgddEBH1hNB5rpnCXC7TEvUwGy36H2+D/q2hRkzu5yO8a+82p6v+YC+
-pcrmSnFMxIlU9W8N/98z3UizQMZsuPAIIkYdo8kp2XLN7Q8gfjhDddQGi1kCOkmr
-a2ehviblT/rVihz2Qum4g73vfZdMvG6buvTHSXPFf/Y9H/4MPV/WoWQ3HnZZmcIN
-juwp7ygiERGjvqA7ryH4XxI5wagFtjcKReVXoHILVYV9S1d5gkLrWKfrj47foUuB
-6wKMpp+cTgtJzArHCK1vMYMZGXm8tlsdwwJohE01KduKEsBA08iRAuHKz8KMIujV
-CSZK1GlAJ4EmiqNpePZF
-=YNz0
+iQIcBAEBAgAGBQJaX7XRAAoJEKhRnBP6u8fUG8cP/30QaM6bNnl3mjM536NL38tC
+SkG0+kmuQFX8drtwh+CYoOtoPqAaqvkXU+kUe03glDe8Swtb0uws0731KwG4Pb55
+MPoRtt6ZUsE+cgJ/9y9ln/3RK+CDil9nvNvV9pUgpR5n2OC+xtqOp7w7Vu2bRIL/
+X9Z4/sWMvg8AbV7q2s8xTq38BDq14yRpeO+lsQ9r6UdazSgXVbxdHSHFJXd4a92T
+TmeA5G70ZRVtEn6d5cyBltC36QnhpedpP3T2QwrNfoU+5CdbXIzn+qLhEZ/A207C
+TNplNYpsVieDZKCo4dqWrX3XXx4eJeDtIMM7C/Y8wkkMP5MSqFD4pFkEERx0Auxh
+LufEY1prVGFBYWKsm5ERtJcIWGsWv6DA0QT2Q9m20+abOn1ZVHiLS3txdoaicLuX
+0SafiwLF9jpPvYdPSLXzxlOUeFdXg+IC6cj+dtYJzU/9J+WnC/65zyhXpkzZFA/A
+sMD/Y2UZPQK0qRqH+ux3dXazd0TZMZurfdKDTCgG0Nr77Nu1edLnX0eHTHmMToVK
+xORUd69BbJKUF0fNs/xNto0WG5eJy+L2y0+ESMUVIypI99nZSrb5Vho8jjQchHwF
+1sLbU/1wQ/NfHAT/pqxpbIarS5bJSbXGbqQVHxFqGm4dPp5rVmagfG2CtDKVqiXV
+hX2bYIZOH2u2cUHEhBbT
+=U589
 -----END PGP SIGNATURE-----
