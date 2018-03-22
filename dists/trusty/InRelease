@@ -4,45 +4,45 @@ Hash: SHA1
 Origin: Corfu
 Label: Corfu, A cluster consistency platform.
 Codename: trusty
-Date: Thu, 22 Mar 2018 19:23:31 UTC
+Date: Thu, 22 Mar 2018 19:48:41 UTC
 Architectures: i386 amd64
 Components: main
 Description: Apt repository for Corfu.
 MD5Sum:
- 04a2b67c0c69fee23163a4b833ab2327 563 main/binary-i386/Packages
- 63a0df1fe5590c27c8a576cdd2534625 416 main/binary-i386/Packages.gz
+ e5d82680a615bcfd57ca7e861e44e4cb 563 main/binary-i386/Packages
+ 435c49fe1db14591775676d6379ca3b6 417 main/binary-i386/Packages.gz
  d120a31f713630f115858838a6384990 134 main/binary-i386/Release
- 04a2b67c0c69fee23163a4b833ab2327 563 main/binary-amd64/Packages
- 63a0df1fe5590c27c8a576cdd2534625 416 main/binary-amd64/Packages.gz
+ e5d82680a615bcfd57ca7e861e44e4cb 563 main/binary-amd64/Packages
+ 435c49fe1db14591775676d6379ca3b6 417 main/binary-amd64/Packages.gz
  c1c1acb91631c9fa960a26c10b82430a 135 main/binary-amd64/Release
 SHA1:
- 03ae46b05a92e623e6b4829d8ed5e363bfb70758 563 main/binary-i386/Packages
- dd365e8403139492745f564509e0fa00ac4b2a85 416 main/binary-i386/Packages.gz
+ 555122e8a1f723cd47f2e16d9a983814a6df2d6b 563 main/binary-i386/Packages
+ 747cbd4811d73113d1b21c1d0c722e8d6a8e5157 417 main/binary-i386/Packages.gz
  0a46dbf293be5b9a4e4667ac1c988702ffb130f0 134 main/binary-i386/Release
- 03ae46b05a92e623e6b4829d8ed5e363bfb70758 563 main/binary-amd64/Packages
- dd365e8403139492745f564509e0fa00ac4b2a85 416 main/binary-amd64/Packages.gz
+ 555122e8a1f723cd47f2e16d9a983814a6df2d6b 563 main/binary-amd64/Packages
+ 747cbd4811d73113d1b21c1d0c722e8d6a8e5157 417 main/binary-amd64/Packages.gz
  6ab4718ea4468625c3f2550a6fea0c92611ce9c6 135 main/binary-amd64/Release
 SHA256:
- 0244c0c99fa4f7118c68d2ed21e75468f598954e86c2ba4f058b15e75bf66cae 563 main/binary-i386/Packages
- 14186b3a1cd3bd12af2e885e88c1e349f874984fa9b61bb58bae766d4d6124d6 416 main/binary-i386/Packages.gz
+ 5998ea21406e83deeafa979dd226fbd3a648219335ce39b59872ca9e1e0a8715 563 main/binary-i386/Packages
+ 217f0105140e17d9c57ee7d22bf9cd5ca4220c5ad98453abc585a6dd9efd8a41 417 main/binary-i386/Packages.gz
  146ade549dc6c274180c5edd2ce6c7c279fa84cc23a80321eafd0474597105ad 134 main/binary-i386/Release
- 0244c0c99fa4f7118c68d2ed21e75468f598954e86c2ba4f058b15e75bf66cae 563 main/binary-amd64/Packages
- 14186b3a1cd3bd12af2e885e88c1e349f874984fa9b61bb58bae766d4d6124d6 416 main/binary-amd64/Packages.gz
+ 5998ea21406e83deeafa979dd226fbd3a648219335ce39b59872ca9e1e0a8715 563 main/binary-amd64/Packages
+ 217f0105140e17d9c57ee7d22bf9cd5ca4220c5ad98453abc585a6dd9efd8a41 417 main/binary-amd64/Packages.gz
  e7df948a90362e59feac971c6a7b8f76fe3dfb57e00d9638d69ed7a1ef349493 135 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.22 (GNU/Linux)
 
-iQIcBAEBAgAGBQJatAKzAAoJEKhRnBP6u8fU0eQQANbO3Pe8z2ovt0LXqdD5Wp5D
-dIyrthJ+xkvxGOCdA2W4Ad7bEsMFi1feqeuwcT18HrhEA+jdZVHJo8yxmQS6XTfY
-CAmiJKhuxS8U+b72xX7Fxt4ezLTr8isYI3OxpBMBBeZ3Dv/kjQTNwsuGVmvQt0qP
-Z+mwwTTIvE4weDxbqijR7OVjsG8Eztqtifq1rZBqunJ/vbrwCZiSC9j2k3nNwIEK
-B8P1krk6GzX9U6D30sVgH6V0ThGj0HqbvGPZdCZoCa7fNiVkRjmVPp9Efi5elE/U
-wiji9tpBPVSPwdSeDTfsERxIS37999ABRPAZ20Zsv0XLXTVU/JeEtNKzUeZ2hpaP
-+BwiMWF/2XP+jW71TJNwKkTeysjcsdj8bMJv7/wwis1eL0Du9WGbo2DOuviCsEOc
-dSiVDhBYhpBG13D6yiYJa/XcjHgLp67ZFaxN3XKvc/ZlXZlUZ0ww/JKJCASGpuwx
-0+DGQ7oNki/Zv2VL2Zd697TT5gq6CYXzmdOMijm3UCU/6PShJo3Zndafl2R8gbZe
-R9cydMXgm6WGGp3b8SBEhJ+mcnrwngoVjZ9YmLdIsDJUR5oyLybg1BCIpqwTSsHG
-442usBhLtosCzC51jU0od8qbn5BjsTci9VLoJnpiO0ipXRSkAUrlp35TJio65xDk
-MghNNPSsKNBc7chizPqD
-=fGhZ
+iQIcBAEBAgAGBQJatAiZAAoJEKhRnBP6u8fUxp0QAMxBasKCJbApRDR67QjWrusZ
+UGNYCgrU1fGPmBdYAWmVpr2pxFIo+MLKivlURsFQgeHQ3pCaGe0+bokRAetZVpsb
+oQUr1cY2ImPuCaW/NRakLsfggwjC2xp+bu8hndBq8KnHdX65y6WKAjgmH307mCnp
+Hoe9Uwcgmn1tuwFTv1SctcdqudYbXFFr+UjOA1Adb4cclbkiUv06MmrWGOrZ6qSR
+dbTPu67Gc2TO/YnDatoJTu9f5WBv4kD+qXIScgEK/nn43+ytR4nXKHyHuzKsCB/D
+9WlhenokoGvS2ZN57QpKrD9GRZ/MrSfq8YyNe2tn9TJ9gzcS2YnvWonVrkeUCfUi
+Klpq1wsn5LDCKzwBrpEORfyawaA9I3bi7AkSw561HEIe4rN1gXBRdI7IfnqXRfdr
+a3g73Ec9GA0Zx09hzXaRbYFM4YFno4stLE539/gDF5cGx/iggBLl4RyqAjl/UeJj
+9jp4722dKRS/Ne6frRXYvjCFfPsvAe/EaasWSGTThQBfzK/s/fdmGGvTRP57/JBN
+Y0E2iFJffhfIyL+tcLKE2F86MSbaqMCAllkPxbEHlC7kFi+JFE8unE6Ed+XeBk9a
+qTSbpFFwIMQaetpbyDmGJZV1iVQtWGdqNQzGSyl0zK21ekTNmtV7q0SR54Uhanmj
+VtdQxdWd8b72paoViuY+
+=JMBd
 -----END PGP SIGNATURE-----
